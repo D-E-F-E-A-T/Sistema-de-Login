@@ -1,4 +1,4 @@
-Sistema básico de Login com  PHP + MYSQL
+Sistema de Login com  PHP + MYSQL (antigo)
 
 						FUNÇÕES DO SISTEMA
 
